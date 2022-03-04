@@ -1,5 +1,3 @@
-package Problem_1;
-
 import java.util.Arrays;
 import java.util.concurrent.Semaphore;
 import java.util.Random;

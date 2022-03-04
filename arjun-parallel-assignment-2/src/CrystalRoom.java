@@ -1,5 +1,3 @@
-package Problem_2;
-
 public class CrystalRoom {
     final static int N = 5;
     static CLHLock lock = new CLHLock();
