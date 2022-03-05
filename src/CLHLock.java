@@ -1,3 +1,5 @@
+// Refereces: The textbook and https://javamana.com/2021/08/20210824210053875y.html
+
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicReference;
 import java.util.concurrent.locks.Condition;
